@@ -1,0 +1,8 @@
+streamlit
+pydantic
+google-genai
+fernet
+requests
+groq
+playwrite
+pymongo

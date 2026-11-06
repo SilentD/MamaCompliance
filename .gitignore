@@ -1,0 +1,12 @@
+.env
+.adk/
+/.streamlit/
+venv/
+/agents/__pychache__/
+/core/__pychache__/
+/data/__pychache__/
+/src/__pychache__/
+/tools/__pychache__/
+
+
+
